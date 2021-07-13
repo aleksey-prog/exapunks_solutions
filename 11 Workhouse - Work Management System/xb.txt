@@ -1,0 +1,4 @@
+COPY M X
+COPY M T
+COPY T M
+COPY X M
